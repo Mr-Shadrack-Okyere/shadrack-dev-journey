@@ -25,7 +25,7 @@ Outside of code, I enjoy learning new technologies, helping others grow, and dis
 
 ## 🖼️ Profile Picture  
 
-![Profile Picture Placeholder](https://avatars.githubusercontent.com/u/9919?s=200&v=4)  
+![Profile Picture Placeholder]([https://avatars.githubusercontent.com/u/9919?s=200&v=4](https://github.com/account))  
 > 🖼️ *Replace this image with your own profile photo to make your README feel more personal!*  
 > You can upload your image to GitHub and copy its link here using:  
 > `![Shadrack Okyere](your-image-link-here)`
