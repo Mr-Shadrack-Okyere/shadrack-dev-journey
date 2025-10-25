@@ -18,10 +18,10 @@
 ---
 
 ## 🧭 About Me
-<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 I’m **Shadrack Okyere**, an aspiring Software Engineer currently learning through the **ALX Software Engineering Program**.  
 I’m passionate about creating digital experiences that solve real-world problems, reduce friction in daily activities, and connect people through accessible technology.  
 I work confidently across both the **Front-End** and **Back-End**, combining logic, creativity, and user empathy to build complete, functional systems.
+<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 **Stack Highlights:**  
 HTML • CSS • JavaScript • Java • Node.js • Express.js
