@@ -25,7 +25,7 @@ Outside of code, I enjoy learning new technologies, helping others grow, and dis
 
 
 ---
-
+---
 
 ## 🛠️ My Tech Stack  
 
