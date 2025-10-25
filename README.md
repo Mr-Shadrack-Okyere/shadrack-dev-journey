@@ -1,6 +1,7 @@
 <!-- Shadrack Okyere GitHub Profile README -->
 <div align="center">
-  <h1>👋 Hi, I’m Shadrack Okyere
+  <h1> Hi, I’m Shadrack Okyere
+    
     <img align="right"src="https://github.com/user-attachments/assets/48cdca8b-f547-46d3-8fb5-0390472d1dff">
 ere</h1>
   <p><strong>Aspiring Software Engineer • ALX Software Engineering Learner</strong></p>
