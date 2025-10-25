@@ -2,7 +2,7 @@
 
 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://github.com/user-attachments/assets/23bd28b9-c930-4bb8-91a8-3e521dcb6b80">
 
 
 
@@ -17,7 +17,7 @@
 
 
 ## 🧠 About Me  
-
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 I’m a dedicated and curious learner currently sharpening my skills as a **Software Engineer in training**.  
 My coding journey is rooted in one simple belief — *growth comes from practice*.  
 
@@ -26,14 +26,9 @@ I’m currently exploring both **Frontend and Backend development**, building ha
 Outside of code, I enjoy learning new technologies, helping others grow, and discovering how innovation can change lives.  
 💡 "The best way to predict the future is to create it."
 
----
-
-## 🖼️ Profile Picture  
-<img src="https://github.com/user-attachments/assets/23bd28b9-c930-4bb8-91a8-3e521dcb6b80">
-
-
 
 ---
+
 
 ## 🛠️ My Tech Stack  
 
