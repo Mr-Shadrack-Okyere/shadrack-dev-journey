@@ -2,13 +2,16 @@
 
 <img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
 🌍 **Location:** Ghana  
 💻 **Passionate About:** Software Engineering | Full-Stack Development | Learning by Doing  
 🚀 **Current Focus:** Building real-world projects through ALX & ProDev programs  
 🌱 **Current Projects:** Airbnb Clone | FeatureForge (Frontend)  
 💬 **Fun Fact:** I love turning complex ideas into simple, beautiful code.  
 
+
 ---
+
 
 ## 🧠 About Me  
 
@@ -26,9 +29,7 @@ Outside of code, I enjoy learning new technologies, helping others grow, and dis
 ## 🖼️ Profile Picture  
 
 ![Profile Picture Placeholder]([https://avatars.githubusercontent.com/u/9919?s=200&v=4](https://github.com/account))  
-> 🖼️ *Replace this image with your own profile photo to make your README feel more personal!*  
-> You can upload your image to GitHub and copy its link here using:  
-> `![Shadrack Okyere](your-image-link-here)`
+
 
 ---
 
