@@ -29,8 +29,8 @@ Outside of code, I enjoy learning new technologies, helping others grow, and dis
 ---
 
 ## 🖼️ Profile Picture  
+(https://github.com/user-attachments/assets/23bd28b9-c930-4bb8-91a8-3e521dcb6b80)
 
-![Profile Picture Placeholder]([https://avatars.githubusercontent.com/u/9919?s=200&v=4](https://github.com/account))  
 
 
 ---
