@@ -14,7 +14,7 @@
 
 
 ## 🧠 About Me  
-<img align="right" width="300" height="150" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="300" height="350" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 I’m a dedicated and curious learner currently sharpening my skills as a **Software Engineer in training**.  
 My coding journey is rooted in one simple belief — *growth comes from practice*.  
 
