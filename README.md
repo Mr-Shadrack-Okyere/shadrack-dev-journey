@@ -1,7 +1,7 @@
 <!-- Shadrack Okyere GitHub Profile README -->
 <div align="center">
   <h1> Hi, I’m Shadrack Okyere
-  </h1> <img align="center" src="https://github.com/user-attachments/assets/48cdca8b-f547-46d3-8fb5-0390472d1dff"> 
+  </h1> <img align="center" width="350" src="https://github.com/user-attachments/assets/48cdca8b-f547-46d3-8fb5-0390472d1dff"> 
   <p><strong>Aspiring Software Engineer • ALX Software Engineering Learner</strong></p>
   <p><em>Building human-centered web apps that simplify everyday life and inspire meaningful impact.</em></p>
 
