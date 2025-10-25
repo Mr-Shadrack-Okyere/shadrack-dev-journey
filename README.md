@@ -1,6 +1,9 @@
 # 👋 Hey there, I'm **Shadrack Okyere**
 
+
+
 <img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 
 🌍 **Location:** Ghana  
@@ -21,8 +24,7 @@ My coding journey is rooted in one simple belief — *growth comes from practice
 I’m currently exploring both **Frontend and Backend development**, building hands-on projects that challenge my problem-solving abilities, strengthen my teamwork, and help me understand real-world systems from the ground up.  
 
 Outside of code, I enjoy learning new technologies, helping others grow, and discovering how innovation can change lives.  
-
-> 💡 *"The best way to predict the future is to create it."*
+💡 "The best way to predict the future is to create it."
 
 ---
 
